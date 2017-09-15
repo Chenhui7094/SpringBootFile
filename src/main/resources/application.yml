@@ -1,0 +1,5 @@
+#配置SpringBoot热部署的路径，若是没有配置默认是整个项目目录
+#spring: 
+#  devtools:
+#    restart:
+#      additional-paths: src/main/java

@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.birdsh.chen</groupId>
-	<artifactId>SpringBoot</artifactId>
+	<artifactId>SpringBootFile</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>SpringBoot</name>
+	<name>SpringBootFile</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
